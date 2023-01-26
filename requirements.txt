@@ -131,13 +131,13 @@ streamlit-option-menu==0.3.2
 tenacity==8.1.0
 tensor==0.3.6
 tensorboard==2.8.0
-tensorboard-data-server==0.6.1
-tensorboard-plugin-wit==1.8.1
+tensorboard-data-server
+tensorboard-plugin-wit
 tensorflow
-tensorflow-estimator==2.9.0
+tensorflow-estimator
 tensorflow-gpu
 tensorflow-intel
-tensorflow-io-gcs-filesystem==0.29.0
+tensorflow-io-gcs-filesystem
 termcolor==2.1.1
 tf-estimator-nightly==2.12.0.dev2022123009
 threadpoolctl==3.1.0
