@@ -120,7 +120,7 @@ seaborn==0.12.1
 semver==2.13.0
 simplegeneric==0.8.1
 six==1.16.0
-sklearn==0.0.post1
+scikit-learn
 smmap==5.0.0
 soupsieve==2.3.2.post1
 sqlparse==0.4.3
