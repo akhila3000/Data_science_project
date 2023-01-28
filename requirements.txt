@@ -46,7 +46,7 @@ patsy
 Pillow
 plotly
 plotly-express
-protobuf
+protobuf==3.9.2
 pyarrow
 pyasn1
 pyasn1-modules
