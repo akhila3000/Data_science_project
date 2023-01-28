@@ -76,7 +76,7 @@ tenacity
 tensorboard
 tensorboard-data-server
 tensorboard-plugin-wit
-tensorflow-estimato
+tensorflow-estimator
 tensorflow-intel
 tensorflow
 tensorflow-io-gcs-filesystem
