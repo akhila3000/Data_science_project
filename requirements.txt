@@ -75,7 +75,7 @@ streamlit-option-menu
 tenacity
 tensorboard
 tensorboard-data-server
-tensorboard-plugin-wit 2.5.0
+tensorboard-plugin-wit
 tensorflow-estimator 2.5.0
 tensorflow-intel 2.5.0
 tensorflow 2.5.0
