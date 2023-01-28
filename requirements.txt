@@ -46,7 +46,7 @@ patsy
 Pillow
 plotly
 plotly-express
-protobuf==3.9.2
+tensorflow-protobuf==2.11.0
 pyarrow
 pyasn1
 pyasn1-modules
