@@ -77,9 +77,9 @@ tensorboard
 tensorboard-data-server
 tensorboard-plugin-wit
 tensorflow-estimator
-tensorflow-intel 2.5.0
+tensorflow-intel
 tensorflow 2.5.0
-tensorflow-io-gcs-filesystem 2.5.0
+tensorflow-io-gcs-filesystem
 termcolor
 threadpoolctl
 toml
